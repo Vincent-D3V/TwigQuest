@@ -1,0 +1,10 @@
+{
+    "name": "wilder/vue-twig",
+    "authors": [
+        {
+            "name": "Vincent Mallard",
+            "email": "vincent.mallard@gmail.com"
+        }
+    ],
+    "require": {}
+}
